@@ -1,2 +1,3 @@
 //this is supposed to be where i enter the first line of code but i dont know what to write. yes.
 //this is still a codespace, going on...
+//apparently opcode-arcade isn't a good name :((
